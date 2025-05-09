@@ -1,10 +1,10 @@
 // Sample product data
 const products = [
-    { id: 1, name: "Laptop", category: "electronics", price: 1200, image: "download.webp" },
-    { id: 2, name: "Headphones", category: "electronics", price: 150, image: "apple.webp" },
-    { id: 3, name: "T-Shirt", category: "clothing", price: 25, image: "https://via.placeholder.com/150" },
-    { id: 4, name: "Smartphone", category: "electronics", price: 800, image: "https://via.placeholder.com/150" },
-    { id: 5, name: "Jeans", category: "clothing", price: 40, image: "https://via.placeholder.com/150" },
+    { id: 1, name: "Laptop", category: "electronics", price: 1200, image: "download.jpg" },
+    { id: 2, name: "Headphones", category: "electronics", price: 150, image: "download(2).jpg" },
+    { id: 3, name: "T-Shirt", category: "clothing", price: 25, image: "b_0119493a-9927-4550-8323-baefe5f625c0.webp" },
+    { id: 4, name: "Smartphone", category: "electronics", price: 800, image: "download(3).jpg" },
+    { id: 5, name: "Jeans", category: "clothing", price: 40, image: "download(1).jpg" },
 ];
 
 let cartCount = 0;
